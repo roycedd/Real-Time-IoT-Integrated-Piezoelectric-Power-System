@@ -98,3 +98,6 @@ Data Sync Interval	Every 5 seconds
 
 🌆 Self-powered IoT nodes in smart cities
 
+<img width="839" height="532" alt="image" src="https://github.com/user-attachments/assets/f85c382e-ef80-48c8-9c8e-c72c3ff0899c" />
+<img width="496" height="910" alt="image" src="https://github.com/user-attachments/assets/e5e41d1b-42bb-4a2d-95fc-068c5fb9ba3a" />
+
