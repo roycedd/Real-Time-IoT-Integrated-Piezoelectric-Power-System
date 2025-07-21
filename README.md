@@ -98,3 +98,4 @@ Data Sync Interval	Every 5 seconds
 
 🌆 Self-powered IoT nodes in smart cities
 
+![image alt](https://github.com/roycedd/Real-Time-IoT-Integrated-Piezoelectric-Power-System/blob/de6ba5f3d5c6842b94146a1ca92e0fcee35f75f0/pictureee.png)
