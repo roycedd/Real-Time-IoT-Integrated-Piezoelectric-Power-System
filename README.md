@@ -97,5 +97,3 @@ Data Sync Interval	Every 5 seconds
 🏢 Smart infrastructure health monitoring
 
 🌆 Self-powered IoT nodes in smart cities
-
-![image alt](https://github.com/roycedd/Real-Time-IoT-Integrated-Piezoelectric-Power-System/blob/6b4c7307355496f446390ffc93a228a8e6f30d65/pictureee.png)
